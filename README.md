@@ -32,7 +32,7 @@ Estos son los proyectos que he desarrollado como parte del currículo ONE, donde
 
 ### 1. 🎲 **Amigo Secreto**  
    *Sorteo aleatorio de nombres con validación de entradas*  
-   ➡️ [Ver README del proyecto](enlace-al-readme-del-amigo-secreto)
+   ➡️ [Ver README del proyecto](https://github.com/lPassword012/formacion-g8-one/tree/main/desafios/amigo-secreto)
 
 *(Lista actualizable con nuevos proyectos)*
 
