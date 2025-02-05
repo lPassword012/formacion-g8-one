@@ -1,0 +1,33 @@
+.footer {
+    background-color: var(--color-secondary);
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    border-top: 2px solid #000;
+    margin-top: auto;
+}
+
+.footer-link {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+.footer-link:hover {
+    color: var(--color-button);
+}
+
+.footer img {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin-left: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.footer img:hover {
+    transform: translateX(5px);
+}
